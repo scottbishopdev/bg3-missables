@@ -530,7 +530,6 @@
 - ::item_rare:: [Rippling Force Mail](https://bg3.wiki/wiki/Rippling%20Force%20Mail)
 - ::item_rare:: [Shadeclinger Armour](https://bg3.wiki/wiki/Shadeclinger%20Armour)
 - ::item_rare:: [Shield of Scorching Reprisal](https://bg3.wiki/wiki/Shield%20of%20Scorching%20Reprisal)
-- ::item_rare:: [Shifting Corpus Ring](https://bg3.wiki/wiki/Shifting%20Corpus%20Ring)
 - ::item_rare:: [Sword of Clutching Umbra](https://bg3.wiki/wiki/Sword%20of%20Clutching%20Umbra)
 - ::item_rare:: [Swordmaster Gloves](https://bg3.wiki/wiki/Swordmaster%20Gloves)
 - ::item_rare:: [The Mighty Cloth](https://bg3.wiki/wiki/The%20Mighty%20Cloth)
@@ -547,6 +546,7 @@
   - Talk to [a Strange Ox](https://bg3.wiki/wiki/Strange_Ox) again (don't kill it)
   - Get [a key](https://bg3.wiki/wiki/Tower-Shaped_Key) from a little tiefling thief
 - Save the moon Cleric from the ambush at the Inn and [start hunting for abductees](https://bg3.wiki/wiki/Resolve_the_Abduction)
+  - ::item_rare:: [Shifting Corpus Ring](https://bg3.wiki/wiki/Shifting%20Corpus%20Ring)
 - ::missable::[Find the tiefling](https://bg3.wiki/wiki/Find_Rolan_in_the_Shadows) without fast traveling or long resting (only happens after [the battle with the flying enemies](https://bg3.wiki/wiki/Resolve_the_Abduction), and the timer only starts if you walk near him)
   - Save him from some scary shadows
 - Wake up [a heavy sleeper](https://bg3.wiki/wiki/Wake_up_Art_Cullagh)
